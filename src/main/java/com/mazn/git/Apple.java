@@ -5,6 +5,7 @@ public class Apple {
 		System.out.println("testGit commit");
 		System.out.println("testGit2");
 		System.out.println("TestBranch");
+		System.out.println("master");
 	}
 
 }
